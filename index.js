@@ -108,7 +108,7 @@ app.post("/vehicleData", (req, res) => {
           volumetotal: 145760,
           connected: 70000,
           softwareUpdates: 27550,
-          img: "http://localhost:4200/img/ranger.png",
+          img: "https://api-fordenter-qstj.onrender.com/img/ranger.png",
         });
 
       case "2RFAASDY54E4HDU34874":
@@ -123,7 +123,7 @@ app.post("/vehicleData", (req, res) => {
           volumetotal: 1500,
           connected: 500,
           softwareUpdates: 750,
-          img: "http://localhost:4200/img/mustang.png",
+          img: "https://api-fordenter-qstj.onrender.com/img/mustang.png",
         });
 
       case "2FRHDUYS2Y63NHD22455":
@@ -138,7 +138,7 @@ app.post("/vehicleData", (req, res) => {
           volumetotal: 4560,
           connected: 4000,
           softwareUpdates: 3050,
-          img: "http://localhost:4200/img/territory.png",
+          img: "https://api-fordenter-qstj.onrender.com/img/territory.png",
         });
 
       case "2RFAASDY54E4HDU34875":
@@ -153,7 +153,7 @@ app.post("/vehicleData", (req, res) => {
           volumetotal: 7560,
           connected: 4060,
           softwareUpdates: 2050,
-          img: "http://localhost:4200/img/broncoSport.png",
+          img: "https://api-fordenter-qstj.onrender.com/img/broncoSport.png",
         });
 
       case "2FRHDUYS2Y63NHD22654":
